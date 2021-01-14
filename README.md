@@ -1,5 +1,11 @@
 # email-solution
 
+## steps
+```
+npm i gulp -G
+npm i
+```
+
 ## tasks
 
 ```

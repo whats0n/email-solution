@@ -1,0 +1,31 @@
+{
+  "name": "email-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whats0n/email-solution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whats0n/email-solution/issues"
+  },
+  "homepage": "https://github.com/whats0n/email-solution#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "fs": "0.0.1-security",
+    "gulp": "^4.0.2",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-inline-css": "^4.0.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^5.0.0"
+  }
+}
